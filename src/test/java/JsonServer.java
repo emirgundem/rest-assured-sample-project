@@ -9,6 +9,7 @@ import static io.restassured.RestAssured.given;
 public class JsonServer {
     @Test
     public void getPost() {
+
         baseURI = "http://localhost:3000";
         given()
                 .get("/posts")
