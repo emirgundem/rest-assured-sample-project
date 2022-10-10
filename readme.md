@@ -2,7 +2,6 @@ Rest Assured Api Testing Project
 
 In this project, api tests we performed with fake json-server using rest assured.
 
-
 ![](../../Desktop/image-103.png)
 
 1- GET POST
